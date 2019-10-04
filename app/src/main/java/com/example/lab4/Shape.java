@@ -5,5 +5,4 @@ public abstract class Shape{
     private int y;
 
     private String color = "red";
-
 }

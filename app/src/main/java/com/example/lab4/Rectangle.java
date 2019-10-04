@@ -1,6 +1,6 @@
 package com.example.lab4;
 
-public Rectangle extends Shape{
+public class Rectangle extends Shape{
 
     private int l;
     private int w;
